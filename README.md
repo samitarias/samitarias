@@ -37,7 +37,7 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me encanta t
 ¡No dudes en contactarme si quieres colaborar o tienes alguna pregunta! 😊
 
 - 📧 **Email**: [samitarias@gmail.com](mailto:samitarias@gmail.com)  
-- 💼 **LinkedIn**: [Ibsen Seijas en LinkedIn](https://www.linkedin.com/in/samitarias)  
+- 💼 **LinkedIn**: [Samit Arias  en LinkedIn](https://www.linkedin.com/in/samitarias)  
 <!--- 👨🏽‍💻 **Behance**: [Aqui puedes ver algunos de mis trabajos con diseño gráfico](https://www.behance.net/ibsendisena)  -->
 - 🌐 **Portfolio**: [En construcción...](#)  
 
