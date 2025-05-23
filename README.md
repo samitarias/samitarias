@@ -39,7 +39,7 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me encanta t
 - 📧 **Email**: [samitarias@gmail.com](mailto:samitarias@gmail.com)  
 - 💼 **LinkedIn**: [Samit Arias  en LinkedIn](https://www.linkedin.com/in/samitarias)  
 <!--- 👨🏽‍💻 **Behance**: [Aqui puedes ver algunos de mis trabajos con diseño gráfico](https://www.behance.net/ibsendisena)  -->
-- 🌐 **Portfolio**: [En construcción...](#)  
+- 🌐 **Portafolio**: [En construcción...](#)  
 
 ## Actividad Reciente en GitHub
 
