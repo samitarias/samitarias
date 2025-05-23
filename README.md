@@ -1,6 +1,6 @@
 # Hola, soy Samit Arias 👋
 
-¡Bienvenidos a mi GitHub! Soy un apasionado de la **Ciencia de Datos**, el **Python** y el **Desarrollo en Cloud**. Con más de 6 años de experiencia en el mundo del Operaciones TI, principalmente en el mundo financiero.
+¡Bienvenidos a mi GitHub! Soy un apasionado de la **Ciencia de Datos**, el **Python** y el **Desarrollo en Cloud**. Con más de 6 años de experiencia en el mundo de Operaciones TI, principalmente en el mundo financiero.
 
 ## Acerca de mí
 
